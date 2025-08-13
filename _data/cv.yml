@@ -10,8 +10,11 @@
   type: time_table
   contents:
     - title: Ph.D.
+      institution: University of Connecticut
+      year: 2024 - present
+    - title: Ph.D.
       institution: Worcester Polytechnic Institute
-      year: 2023 - present
+      year: 2023 - 2024
     - title: M.S.
       institution: Rutgers University
       year: 2019 - 2021
@@ -22,12 +25,21 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Teaching Assistant
+      institution: Worcester Polytechnic Institute
+      year: 2023 - 2024
+      description:
+        - Conducted office hours and assisted students with programming assignments and technical implementations
+        - Designed and graded programming projects.
+        - Courses: Machine Learning, Data Structures, Artificial Intelligence Fundamentals
     - title: Machine Learning Engineer
       institution: Kuaishou Co., Personalized Ads Marketing Group
       year: 2021 - 2023
       description:
-        - Designed and implemented a zero-inflated model to model both the probability and amount of user payment
-        - Developed a real-time API system to support experiments
+        - Developed purchasing intention model for e-commerce marketing system, boosting ROI by 15%
+        - Established audience targeting dashboards and analysis, increasing Daily New Users by 50%
+        - Collaborated on low-quality data filtering, improving landing page CTR prediction AUC by 2%
+        - Developed DID analysis framework for evaluating 50+ experiments beyond traditional A/B testing
     - title: Research Assistant
       institution: "Laboratory of Semantic Computing and Data Mining, USTC (Advisor: Linli Xu)"
       year: 2018 - 2019
