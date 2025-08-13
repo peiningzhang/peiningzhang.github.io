@@ -29,14 +29,14 @@
         - Designed and implemented a zero-inflated model to model both the probability and amount of user payment
         - Developed a real-time API system to support experiments
     - title: Research Assistant
-      institution: Laboratory of Semantic Computing and Data Mining, USTC (Advisor: Linli Xu)
+      institution: "Laboratory of Semantic Computing and Data Mining, USTC (Advisor: Linli Xu)"
       year: 2018 - 2019
       description:
         - Collected music and comments to construct paired music–text datasets
         - Built a Seq2Seq model with dilated CNN encoder and memory-based RNN decoder for thematic comment generation
         - Proposed two GAN-based evaluation metrics better aligned with human evaluation
     - title: Research Assistant
-      institution: USTC–Birmingham Joint Research Institute (Advisor: Ke Tang)
+      institution: "USTC–Birmingham Joint Research Institute (Advisor: Ke Tang)"
       year: 2017 - 2018
       description:
         - Added asymmetry to distance measurement in Negatively Correlated Search, improving efficiency by >10x
