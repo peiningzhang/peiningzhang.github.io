@@ -6,6 +6,7 @@ subtitle: Computer Science Ph.D. student, University of Connecticut
 
 profile:
   align: left
+  image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <div>Email: peining.zhang@uconn.edu [<a href="docs/Resume2025.pdf">CV</a>]</div>
