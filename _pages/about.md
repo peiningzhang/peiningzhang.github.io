@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year Ph.D. student in the
+I am a 3rd-year Ph.D. student in the
 [Computer Science and Engineering department](https://www.cse.uconn.edu/) of the University of Connecticut, advised by
 [Prof. Jinbo Bi](https://www.cse.uconn.edu/person/jinbo-bi/).
 
