@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div>Email: peining.zhang@uconn.edu [<a href="docs/Resume2025.pdf">CV</a>]</div>
+    <div>Email: peining.zhang@uconn.edu [<a href="assets/pdf/Resume2026.pdf">CV</a>]</div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year Ph.D. student in the
+I am a third-year Ph.D. student in the
 [Computer Science and Engineering department](https://www.cse.uconn.edu/) of the University of Connecticut, advised by
 [Prof. Jinbo Bi](https://www.cse.uconn.edu/person/jinbo-bi/).
 
