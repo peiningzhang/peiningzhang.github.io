@@ -25,6 +25,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Ph.D. Statistics Intern
+      institution: "Bayer, Statistics and Data Science — Whippany, New Jersey, U.S."
+      year: Jun. 2026 - Aug. 2026
+      description:
+        - "Mixed-Type Tabular Generation: Developed a diffusion-based generative modeling framework for clinical tabular data containing continuous, nominal, ordinal, and time-to-event variables"
+        - Designed ordinal-aware corruption mechanisms to preserve ranked relationships and evaluated generated data for distributional fidelity and downstream clinical modeling
     - title: Teaching Assistant
       institution: Worcester Polytechnic Institute
       year: 2023 - 2024
