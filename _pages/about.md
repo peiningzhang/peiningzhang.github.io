@@ -15,9 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -36,7 +36,7 @@ Before that, I obtained a master's degree of science in computer science from Ru
 I received my bachelor's degree from the University of Science and Technology of China (USTC), advised by
 [Prof. Linli Xu](http://staff.ustc.edu.cn/~linlixu/index.html).
 
-Throughout my bachelor's and master's time, my research lay in generative models in NLP.
-Then in my work, I gained practical experience in data mining and recommendation systems.
+During my undergraduate and master's studies, I worked on generative models for NLP.
+I later gained practical experience in data mining and recommendation systems through industry research.
 
-Currently, my research focus is on 3D generative models and drug discovery.
+My current research focuses on 3D generative models and drug discovery.

@@ -2,7 +2,7 @@ name: Check for broken links on site
 
 on:
   workflow_run:
-    workflows: [Deploy site]
+    workflows: [Deploy to GitHub Pages]
     types: [completed]
 
 jobs:
@@ -17,8 +17,13 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.2.2"
+          ruby-version: "3.3.5"
           bundler-cache: true
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
