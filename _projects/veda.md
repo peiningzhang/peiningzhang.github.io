@@ -6,7 +6,6 @@ img: assets/img/publication_preview/veda.png
 importance: 1
 category: research
 github: https://github.com/peiningzhang/VEDA
-related_publications: true
 ---
 
 VEDA is a unified SE(3)-equivariant framework for generating conformationally accurate 3D molecules.
