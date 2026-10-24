@@ -1,0 +1,20 @@
+<figure class="my-4">
+  <img
+    src="{{ include.denoised | relative_url }}"
+    alt="{{ include.name }}: denoised molecular predictions across sampling steps"
+    loading="lazy"
+    style="display: block; width: 100%; max-width: 560px; height: auto; margin: 0 auto; border-radius: 8px; background: white"
+  >
+  <figcaption class="text-center mt-2">{{ include.caption }}</figcaption>
+</figure>
+
+<details class="mb-4">
+  <summary>View the full generation trajectory</summary>
+  <img
+    src="{{ include.generation | relative_url }}"
+    alt="{{ include.name }}: full molecular generation trajectory"
+    loading="lazy"
+    style="display: block; width: 100%; height: auto; margin-top: 1rem; border-radius: 8px; background: white"
+  >
+  <p class="mt-2">Recorded model sampling states, rather than an interpolated animation. This example illustrates one generation trajectory.</p>
+</details>

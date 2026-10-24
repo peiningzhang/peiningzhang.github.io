@@ -14,6 +14,10 @@ VEDA ("Generation of 3D Molecules via Variance-Exploding Diffusion with Annealin
 
 The framework combines continuous coordinate diffusion with discrete molecular-feature generation in a unified SE(3)-equivariant model.
 
+### Generation in action
+
+{% include generation_animation.liquid name="VEDA" denoised="/assets/img/projects/veda/denoised.gif" generation="/assets/img/projects/veda/generation.gif" caption="A molecule takes shape over 100 sampling steps. The animation shows the model's denoised predictions with a fixed camera and scale." %}
+
 ### Method
 
 - A variance-exploding (VE) noise schedule acts like simulated annealing, smoothing the molecular energy landscape during sampling.
