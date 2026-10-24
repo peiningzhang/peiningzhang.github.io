@@ -2,6 +2,8 @@
 layout: page
 title: PocketVE
 description: Stable and property-guided structure-based drug design with variance-exploding diffusion.
+img: assets/img/projects/pocketve/denoised.gif
+img_avoid_scaling: true
 importance: 0
 category: research
 ---

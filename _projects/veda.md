@@ -2,7 +2,8 @@
 layout: page
 title: VEDA
 description: 3D molecular generation via variance-exploding diffusion with annealing.
-img: assets/img/publication_preview/veda.png
+img: assets/img/projects/veda/denoised.gif
+img_avoid_scaling: true
 importance: 1
 category: research
 github: https://github.com/peiningzhang/VEDA
