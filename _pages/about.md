@@ -29,15 +29,8 @@ I am a 3rd-year Ph.D. student in the
 [Computer Science and Engineering department](https://www.cse.uconn.edu/) of the University of Connecticut, advised by
 [Prof. Jinbo Bi](https://www.cse.uconn.edu/person/jinbo-bi/).
 
-From 2021 to 2023, I worked as a Machine Learning Engineer at
-[Kuaishou Co.](https://en.wikipedia.org/wiki/Kuaishou) in the group of personalized ads marketing.
-
-Before that, I obtained a master's degree of science in computer science from Rutgers University in 2021.
-I received my bachelor's degree from the University of Science and Technology of China (USTC), advised by
-[Prof. Linli Xu](http://staff.ustc.edu.cn/~linlixu/index.html).
-
-During my undergraduate and master's studies, I worked on generative models for NLP.
-I later gained practical experience in data mining and recommendation systems through industry research.
+I received my master's degree in computer science from Rutgers University and my bachelor's degree from the University of Science and Technology of China (USTC), where I was advised by [Prof. Linli Xu](http://staff.ustc.edu.cn/~linlixu/index.html).
+My earlier work includes generative models for NLP and machine learning for personalized advertising at [Kuaishou](https://en.wikipedia.org/wiki/Kuaishou).
 
 My current research focuses on 3D generative models and drug discovery.
 In particular, I develop diffusion models for generating physically realistic molecules, including molecules designed for specific protein binding pockets.
