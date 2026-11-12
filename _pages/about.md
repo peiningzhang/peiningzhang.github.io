@@ -40,3 +40,4 @@ During my undergraduate and master's studies, I worked on generative models for 
 I later gained practical experience in data mining and recommendation systems through industry research.
 
 My current research focuses on 3D generative models and drug discovery.
+In particular, I develop diffusion models for generating physically realistic molecules, including molecules designed for specific protein binding pockets.
